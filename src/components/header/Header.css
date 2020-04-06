@@ -1,0 +1,17 @@
+.header nav{
+    background-color: #3B5998;
+    padding-left: 40px;
+  }
+
+nav a{
+      color: white;
+      text-decoration: none;
+      line-height: 50px;
+      margin-right: 20px;
+      font-size: 20px;
+  }
+
+.header img{
+
+    height: 60px;
+}
